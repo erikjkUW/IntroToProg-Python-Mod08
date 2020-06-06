@@ -1,0 +1,7 @@
+Apples,1.99
+Bananas,2.99
+Cherries,3.99
+Durian,4.99
+Elderberries,5.99
+Figs,6.99
+Gooseberries,7.99
